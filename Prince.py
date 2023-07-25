@@ -1,5 +1,4 @@
-# Tutul-
-os.system("pkg install espeak")
+
 #-----------------[ Tutul-King ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
